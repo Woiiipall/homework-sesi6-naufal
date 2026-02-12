@@ -8,7 +8,7 @@
   },
   "item": [
     {
-      "name": "New Request",
+      "name": "Login",
       "event": [
         {
           "listen": "test",
@@ -58,7 +58,7 @@
       "response": []
     },
     {
-      "name": "New Request",
+      "name": "Get User",
       "event": [
         {
           "listen": "test",
